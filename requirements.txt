@@ -1,3 +1,2 @@
-git add requirements.txt
-git commit -m "Add requirements for Telegram bot"
-git push
+pyrogram==2.3.45
+tgcrypto
